@@ -1,0 +1,5 @@
+interface:
+  display_name: "Nature Figure"
+  short_description: "Create publication-ready scientific figures"
+  brand_color: "#1B5E20"
+  default_prompt: "Use $nature-figure to turn my research data into a publication-ready scientific figure."
